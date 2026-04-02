@@ -2,8 +2,6 @@
 ```csharp
 github.com/rzeczkaA
 dc   $  @rzeczka_042
-srv  $  dsc.gg/cheapshopp
-web  $  flamedevs.pl
 ```
 &zwnj; 
 &zwnj; 
